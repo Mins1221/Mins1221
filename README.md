@@ -19,7 +19,9 @@
 
 | | |
 |---|---|
-| 📧 Email | minseung8741@hufs.ac.kr |
+| 📧 Email | minseung8741@naver.com |
+| 📱 Phone | 010-8300-8741 |
+| 📸 Instagram | [@mins_1221_](https://www.instagram.com/mins_1221_) |
 
 <br>
 
@@ -53,6 +55,7 @@
 |---------|------|----------|------|
 | [🛒 FCS - AI 의류 추천 쇼핑몰](https://github.com/Mins1221/FCS-fashion-website) | AI가 사용자 패션을 분석해 유사한 의류를 추천하는 쇼핑몰 | HTML, CSS, JS, Python, TensorFlow | 팀 (3인) |
 | [🎵 Compose Melody - 작곡 프로그램](https://github.com/Mins1221/SongMaker-project) | 버튼 클릭만으로 멜로디를 만들고 재생할 수 있는 GUI 프로그램 | Java, Swing, Sound API | 팀 (3인) |
+| [🪑 Furniture Builder - 커스텀 가구 제작](https://github.com/Mins1221/furniture-builder) | 디자인 패턴(Builder, Decorator, Flyweight, Memento)을 활용한 가구 제작 프로그램 | Python, Tkinter, PIL | 팀 (3인) |
 | [📚 ReBook - 독서 기록 사이트](https://github.com/Mins1221/ReBook) | 읽은 책을 분야별로 정리하고 소개하는 개인 웹사이트 | HTML, CSS, JS | 개인 |
 | [💰 스마트 가계부](https://github.com/Mins1221/Householder) | 수입/지출을 기록하고 월별 카테고리 통계를 확인하는 가계부 프로그램 | Python, Tkinter, SQLite3 | 개인 |
 
