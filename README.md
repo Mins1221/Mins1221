@@ -19,7 +19,7 @@
 
 | | |
 |---|---|
-| 📧 Email | minseung8741@naver.com |
+| 📧 Email | minseung8741@hufs.ac.kr |
 
 <br>
 
