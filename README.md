@@ -20,8 +20,6 @@
 | | |
 |---|---|
 | 📧 Email | minseung8741@naver.com |
-| 📱 Phone | 010-8300-8741 |
-| 📸 Instagram | [@mins_1221_](https://www.instagram.com/mins_1221_) |
 
 <br>
 
