@@ -17,7 +17,7 @@
 
 ## 📫 Contact
 
-| | |
+
 | 📧 Email | minseung8741@naver.com |
 
 
