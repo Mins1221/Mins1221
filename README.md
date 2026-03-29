@@ -70,5 +70,6 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-mins1221s-projects.vercel.app/api?username=Mins1221&show_icons=true&theme=tokyonight&cache_seconds=0&v=1)
-![Top Langs](https://github-readme-stats-mins1221s-projects.vercel.app/api/top-langs/?username=Mins1221&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-mins1221s-projects.vercel.app/api?username=Mins1221&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-mins1221s-projects.vercel.app/api/top-langs/?username=Mins1221&layout=compact&theme=tokyonight" />
