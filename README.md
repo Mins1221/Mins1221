@@ -67,7 +67,7 @@
 - Simulation, Backtracking, BFS/DFS, DP, 정렬, 구현, 시뮬레이션 등 다양한 유형 학습 중
 
 <br>
-
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Mins1221&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mins1221&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mins1221&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mins1221&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Mins1221&theme=tokyonight" />
