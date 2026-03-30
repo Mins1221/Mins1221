@@ -69,5 +69,4 @@
 <br>
 
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Mins1221&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mins1221&layout=compact&theme=tokyonight" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Backend+Developer+%F0%9F%92%BB" />
