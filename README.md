@@ -64,7 +64,7 @@
 [![코드트리 프로필](https://img.shields.io/badge/CodeTree-Algorithm_Study-brightgreen?style=flat-square)](https://www.codetree.ai)
 
 - 📌 코드트리에서 알고리즘 문제를 꾸준히 풀고 있습니다 (현재 진행 중)
-- Simulation, Backtracking, BFS/DFS, DP, 정렬, 구현, 시뮬레이션 등 다양한 유형 학습 중
+- Simulation, Backtracking, BFS/DFS, DP, 정렬, 구현 등 다양한 유형 학습 중
 
 <br>
 ## 📈 GitHub Stats
